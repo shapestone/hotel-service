@@ -33,7 +33,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = 'shapestone.labs.hotel.App'
+    mainClassName = 'com.shapestone.labs.hotel.App'
 }
 
 test {
