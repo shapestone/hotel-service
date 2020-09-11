@@ -1,4 +1,4 @@
-package com.shapestone.labs.hotel.domain;
+package com.shapestone.labs.hotel.domain.model;
 
 public final class Guest {
     private final String guestId;

@@ -1,4 +1,4 @@
-package com.shapestone.labs.hotel.domain;
+package com.shapestone.labs.hotel.domain.model;
 
 import java.util.Date;
 
